@@ -15,3 +15,10 @@ All data entered into the application, such as values for the compounding calcul
 If you have any questions about this Privacy Policy, you can contact us at:
 
 * **Email:** msavchenko@hotmail.com
+
+---
+## Support
+
+For any questions, bug reports, or support requests, please contact us at:
+
+* **Email:** msavchenko@hotmail.com
