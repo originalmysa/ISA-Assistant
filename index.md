@@ -17,17 +17,17 @@ ISA Assistant turns the confusion of saving and investing into confidence. Built
 ### ✨ Find Your Investment Style
 Not sure if you're a cautious saver or a growth-focused investor? Take our simple, friendly quiz to get a personalized suggestion for the portfolio style that might be right for you.
 
-*(Insert a polished screenshot of the quiz or results here)*
+![Screenshot of the Investment Style Quiz](quiz_screenshot.png)
 
 ### 📈 Visualize Your Future
 Our powerful and instant compounding calculator shows you exactly how your savings can grow over time. The interactive chart makes it easy to see the long-term impact of your contributions.
 
-*(Insert a polished screenshot of the calculator here)*
+![Screenshot of the Compounding Calculator](calculator_chart.jpg)
 
 ### 📊 Explore Portfolio Examples
 See clear examples of different investment portfolios, from Conservative to Aggressive. Understand the strategy and asset mix behind each one with beautiful 3D pie charts.
 
-*(Insert a polished screenshot of the portfolios here)*
+![Screenshot of Portfolio Examples with 3D Pie Charts](portfolios_view.png)
 
 ---
 
