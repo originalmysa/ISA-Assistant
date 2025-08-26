@@ -22,7 +22,7 @@ Not sure if you're a cautious saver or a growth-focused investor? Take our simpl
 ### 📈 Visualize Your Future
 Our powerful and instant compounding calculator shows you exactly how your savings can grow over time. The interactive chart makes it easy to see the long-term impact of your contributions.
 
-![Screenshot of the Compounding Calculator](calculator_chart.jpg)
+![Screenshot of the Compounding Calculator](calculator_chart.png)
 
 ### 📊 Explore Portfolio Examples
 See clear examples of different investment portfolios, from Conservative to Aggressive. Understand the strategy and asset mix behind each one with beautiful 3D pie charts.
