@@ -39,7 +39,6 @@ Ready to start your journey to a smarter financial future?
 
 <br/>
 
-[Privacy Policy & Support](https://your-username.github.io/ISA-Assistant-Privacy)
 
 # Privacy Policy for ISA Assistant
 
