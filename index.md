@@ -4,7 +4,7 @@
 
 <br/>
 
-[<img src="https://link.to.your.appstore.badge/badge.svg" alt="Download on the App Store" width="150">](https://your-app-store-link)
+[![Download on the App Store](Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)]([https://your-app-store-link](https://apps.apple.com/us/app/isa-assistant/id6751424861))
 
 ---
 
@@ -35,7 +35,7 @@ See clear examples of different investment portfolios, from Conservative to Aggr
 
 Ready to start your journey to a smarter financial future?
 
-[<img src="https://link.to.your.appstore.badge/badge.svg" alt="Download on the App Store" width="150">](https://your-app-store-link)
+[![Download on the App Store](Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)]([https://your-app-store-link](https://apps.apple.com/us/app/isa-assistant/id6751424861))
 
 <br/>
 
